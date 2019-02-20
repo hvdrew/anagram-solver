@@ -110,10 +110,10 @@ const findPossibilities = (arrayOfLetters) => {
     Six Letters:
     ${(possibleSolutions.sixChar.length > 0) ? possibleSolutions.sixChar : 'None.'}
     
-    Six Letters:
+    Seven Letters:
     ${(possibleSolutions.sevenChar.length > 0) ? possibleSolutions.sevenChar : 'None.'}
     
-    Six Letters:
+    Eight Letters:
     ${(possibleSolutions.eightChar.length > 0) ? possibleSolutions.eightChar : 'None.'}`;
     
     console.log(resultText);
