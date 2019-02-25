@@ -1,0 +1,24 @@
+{
+  "name": "anagram-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "check-word": "^1.1.0",
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvdrew/anagram-solver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hvdrew/anagram-solver/issues"
+  },
+  "homepage": "https://github.com/hvdrew/anagram-solver#readme"
+}
